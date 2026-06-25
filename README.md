@@ -41,5 +41,5 @@ To run the codes in this repository, ensure your local environment meets the fol
 
 ### Execution Instructions
 1. Clone this repository locally:
-   ```bash
-      git clone [https://github.com/sarazaee/signal-system-project1.git](https://github.com/sarazaee/signal-system-project1.git)
+```bash
+git clone [https://github.com/sarazaee/signal-system-project1.git](https://github.com/sarazaee/signal-system-project1.git)
