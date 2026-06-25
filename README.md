@@ -42,4 +42,4 @@ To run the codes in this repository, ensure your local environment meets the fol
 ### Execution Instructions
 1. Clone this repository locally:
    ```bash
-   git clone [https://github.com/sarazaee/Signals-and-Systems-MATLAB.git](https://github.com/YOUR_USERNAME/Signals-and-Systems-MATLAB.git)LAB.git](https://github.com/sarazaee/Signals-and-Systems-MATLAB.git)
+      git clone [https://github.com/sarazaee/signal-system-project1.git](https://github.com/sarazaee/signal-system-project1.git)
